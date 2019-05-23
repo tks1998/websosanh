@@ -1,0 +1,164 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  padding: 0;
+  margin: 0;
+}
+
+.header{
+  background-color: rgb(76, 113, 193);
+  display: block;
+  max-width: 100%;
+  height: 100%;
+  padding: 1em;
+  font-size: 36px;
+  color: rgb(255, 255, 255);
+  border-radius: 0 0 5px 5px;
+  box-shadow: 5px 5px 10px gainsboro;
+  text-align: center;
+}
+
+.contain{
+  display: flex;
+  flex-direction: column;
+  /*justify-content: center;*/
+  align-items: center;
+  padding: 15px;
+}
+
+.contain form{
+  width: 100%;
+  max-width: 790px;
+}
+
+.contain form .inner-form {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 8px 20px 0px rgba(82, 82, 82, 0.233);
+  border-radius: 30px;
+  overflow: hidden;
+  margin: 30 0px;
+  margin-top: 20px;
+}
+
+.contain form .inner-form:hover {
+  border-radius: 34px;
+  transition-duration: 1s;
+}
+
+
+.contain form .inner-form .input-field {
+  height: 68px;
+}
+
+.contain form .inner-form .input-field input {
+  height: 150%;
+  background: transparent;
+  border: 0;
+  display: block;
+  width: 100%;
+  padding: 20px 0;
+  color: #000;
+}
+
+.contain form .inner-form .input-field input:hover, .contain form .inner-form .input-field input:focus {
+  box-shadow: none;
+  outline: 0;
+}
+
+.contain form .inner-form .input-field.first-wrap {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+}
+
+.contain form .inner-form .input-field.first-wrap input {
+  flex-grow: 1;
+}
+
+.contain form .inner-form .input-field.first-wrap .svg-wrapper {
+  min-width: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contain form .inner-form .input-field.first-wrap svg {
+  width: 36px;
+  height: 36px;
+  fill: #222;
+}
+
+.contain form .inner-form .input-field.second-wrap {
+  min-width: 216px;
+}
+
+.contain form .inner-form .input-field.second-wrap .btn-search {
+  height: 100%;
+  width: 100%;
+  white-space: nowrap;
+  color: #fff;
+  border: 0;
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+  background: rgb(115, 167, 186);
+  transition: all .2s ease-out, color .2s ease-out;
+  font-weight: 300;
+}
+
+.contain form .inner-form .input-field.second-wrap .btn-search:hover {
+  background: #4c71c1;
+  box-shadow: 5px 5px 10px gainsboro;
+}
+
+.contain form .inner-form .input-field.second-wrap .btn-search:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+.contain form .info {
+  font-size: 15px;
+  color: #ccc;
+  padding-left: 26px;
+}
+
+@media screen and (max-width: 992px) {
+  .contain form .inner-form .input-field {
+    height: 50px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .contain form .inner-form .input-field.first-wrap .svg-wrapper {
+    min-width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10px;
+  }
+  .contain form .inner-form .input-field.first-wrap svg {
+    width: 26px;
+    height: 26px;
+    fill: #222;
+  }
+  .contain form .inner-form .input-field.second-wrap {
+    min-width: 100px;
+  }
+  .contain form .inner-form .input-field.second-wrap .btn-search {
+    font-size: 13px;
+  }
+}
+
+.result-devices{
+  display: flex;
+
+}
+
+.result{
+  margin: 50px;
+}
