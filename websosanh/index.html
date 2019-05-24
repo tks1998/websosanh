@@ -13,6 +13,8 @@
     <link href="css/style.css" rel="stylesheet" />
     <link href="css/normalize.css" rel="stylesheet" />
 
+    <script type="text/JavaScript" src="https://raw.githubusercontent.com/javve/list.js/v1.5.0/dist/list.min.js"></script>
+
 </head>
 
 <body>
@@ -20,7 +22,7 @@
         Price Compare for Electronic Devices
     </header>
     <div class="contain">
-        <form>
+        <form onsubmit="return abcxxxx()">
             <div class="inner-form">
                 <div class="input-field first-wrap">
                     <div class="svg-wrapper">
@@ -33,26 +35,35 @@
                     <input id="search" type="text" placeholder="What are you looking for?" />
                 </div>
                 <div class="input-field second-wrap">
-                    <button class="btn-search" type="button">SEARCH</button>
+                    <button class="btn-search" type="submit">
+                        Search
+                    </button>
                 </div>
             </div>
         </form>
     </div>
+<br>
     <div class="container">
         <div class="row">
-            <div class="col-md-3">
-                aa
+        <!-- @foreach -->
+            <div class="col-md-3 mb-4" id="ttsp">
+                <div class="card">
+                    <a href="" target="_self"> 
+                    </a>
+                    <br>
+                    <div class="container">
+                        <h5 class="card-title text-truncate" id="tensp"><!-- Sản phẩm A --></h5>
+                        <div class="text-truncate text-primary" id="nsxsp">
+                             <!-- Samsung -->
+                        </div>
+                        <hr>
+                        <p class="text-success" id="giasp">
+                        <!-- 50,000 -->
+                        </p>
+                    </div>
+                </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-md-3">
-                aa
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-3">
-                aa
-            </div>
+        <!-- @endforeach -->
         </div>
     </div>
 
