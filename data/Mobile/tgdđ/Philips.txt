@@ -1,0 +1,6 @@
+INSERT INTO BANG VALUES(' Philips S327 ', 2.190.000₫ ,'Philips','The gioi di dong');
+INSERT INTO BANG VALUES(' Philips E331 ', 890.000₫ ,'Philips','The gioi di dong');
+INSERT INTO BANG VALUES(' Philips E316 ', 550.000₫ ,'Philips','The gioi di dong');
+INSERT INTO BANG VALUES(' Philips E168 ', Hết hàng tạm thời ,'Philips','The gioi di dong');
+INSERT INTO BANG VALUES(' Philips E103 ', 260.000₫ ,'Philips','The gioi di dong');
+INSERT INTO BANG VALUES(' Philips E106 ', Hàng sắp về ,'Philips','The gioi di dong');

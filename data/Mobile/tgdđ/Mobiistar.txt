@@ -1,0 +1,9 @@
+INSERT INTO BANG VALUES(' Mobiistar X ', Giá mới: 2.690.000₫ ,'Mobiistar','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobiistar E Selfie ', 2.290.000₫ ,'Mobiistar','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobiistar Zumbo S2 Dual ', 1.990.000₫ ,'Mobiistar','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobiistar Zumbo J2 ', 1.790.000₫ ,'Mobiistar','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobiistar Lai Zumbo S Lite (2017) ', 1.790.000₫ ,'Mobiistar','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobiistar Lai Zoro 3 ', Giá mới: 1.190.000₫ ,'Mobiistar','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobiistar B249 ', Giá mới: 250.000₫ ,'Mobiistar','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobiistar B248i ', 250.000₫ ,'Mobiistar','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobiistar B310 ', Giá mới: 230.000₫ ,'Mobiistar','The gioi di dong');

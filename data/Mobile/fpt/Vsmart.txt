@@ -1,0 +1,6 @@
+INSERT INTO BANG VALUES(' Vsmart Joy 1+ ', 2.690.000 ₫ ,'Vsmart','Fptshop');
+INSERT INTO BANG VALUES(' Vsmart Joy 1 ', 2.290.000 ₫ ,'Vsmart','Fptshop');
+INSERT INTO BANG VALUES(' Vsmart Active 1 ', 3.990.000 ₫ ,'Vsmart','Fptshop');
+INSERT INTO BANG VALUES(' Vsmart Active 1+ ', 5.790.000 ₫ ,'Vsmart','Fptshop');
+INSERT INTO BANG VALUES(' Vsmart Joy 1 (2GB-16GB) ', 1.990.000 ₫ ,'Vsmart','Fptshop');
+INSERT INTO BANG VALUES(' Vsmart Joy 1+ (2GB-16GB) ', 2.490.000 ₫ ,'Vsmart','Fptshop');

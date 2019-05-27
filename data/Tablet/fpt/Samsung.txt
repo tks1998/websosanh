@@ -1,0 +1,6 @@
+INSERT INTO BANG VALUES(' Samsung Galaxy Tab S5E ', 12.490.000 ₫ ,'Samsung','Fptshop');
+INSERT INTO BANG VALUES(' Samsung Galaxy Tab A 10.5 ', 9.490.000 ₫ ,'Samsung','Fptshop');
+INSERT INTO BANG VALUES(' Samsung Galaxy Tab A 7" 2016 ', 3.290.000 ₫ ,'Samsung','Fptshop');
+INSERT INTO BANG VALUES(' Samsung Galaxy Tab A Plus 8 (2019) ', 6.990.000 ₫ ,'Samsung','Fptshop');
+INSERT INTO BANG VALUES(' Samsung Galaxy Tab A 8.0 (2017) ', 5.490.000 ₫ ,'Samsung','Fptshop');
+INSERT INTO BANG VALUES(' Samsung Galaxy Tab E ', 3.990.000 ₫ ,'Samsung','Fptshop');

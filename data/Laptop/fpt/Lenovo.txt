@@ -1,0 +1,23 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 22:20:52) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+================== RESTART: D:\crawldata\Laptop\fpt\test.py ==================
+0
+1
+2
+3
+4
+5
+6
+7
+8
+INSERT INTO BANG VALUES(' Ideapad 330s-14IKB/Core i3-8130/4Gb/256Gb/Win 10 ', 11.790.000₫ ,'Lenovo','Fptshop');
+INSERT INTO BANG VALUES(' IdeaPad 320- 14ISK/Core i3-6006U/Win 10 ', 8.990.000₫ ,'Lenovo','Fptshop');
+INSERT INTO BANG VALUES(' Lenovo Ideapad 330S-14IKBR ', 12.990.000₫ ,'Lenovo','Fptshop');
+INSERT INTO BANG VALUES(' Lenovo Legion Y530-15ICH/Core i7-8750H/8GB/1TB+128GB SSD/GTX 1050 4GB/81FV00SUVN ', 24.990.000₫ ,'Lenovo','Fptshop');
+INSERT INTO BANG VALUES(' Lenovo Legion Y530-15ICH ', 22.990.000₫ ,'Lenovo','Fptshop');
+INSERT INTO BANG VALUES(' Lenovo Ideapad 330-15IKB 81DC00ENVN ', 9.990.000₫ ,'Lenovo','Fptshop');
+INSERT INTO BANG VALUES(' Lenovo Ideapad 320-14ISK 80XG009TVN ', 8.490.000₫ ,'Lenovo','Fptshop');
+INSERT INTO BANG VALUES(' Lenovo ThinkPad E570 ', 15.990.000₫ ,'Lenovo','Fptshop');
+INSERT INTO BANG VALUES(' IdeaPad 330-15IKB/Core i3-8130U/1TB+16Gb Optane/Win 10 ', 11.490.000₫ ,'Lenovo','Fptshop');
+>>> 

@@ -1,0 +1,5 @@
+INSERT INTO BANG VALUES(' Huawei MediaPad T3 7.0 Prestige ', 2.090.000 ₫ ,'Huawei','Fptshop');
+INSERT INTO BANG VALUES(' Huawei MediaPad T3 10.0 ', 4.490.000 ₫ ,'Huawei','Fptshop');
+INSERT INTO BANG VALUES(' Huawei MediaPad T3 8.0 (2017) ', 3.990.000 ₫ ,'Huawei','Fptshop');
+INSERT INTO BANG VALUES(' Huawei MediaPad T5 10 ', 5.690.000 ₫ ,'Huawei','Fptshop');
+INSERT INTO BANG VALUES(' MediaPad T3 7.0 - 16GB ', 2.590.000 ₫ ,'Huawei','Fptshop');

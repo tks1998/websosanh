@@ -1,0 +1,14 @@
+INSERT INTO BANG VALUES(' HP 15 da0048TU N5000 (4ME63PA) ', 7.690.000₫ ,'Hp','The gioi di dong');
+INSERT INTO BANG VALUES(' HP 15 da0055TU i3 7020U (4NA89PA) ', 10.290.000₫ ,'Hp','The gioi di dong');
+INSERT INTO BANG VALUES(' HP 15 da0054TU i3 7020U (4ME68PA) ', 10.990.000₫ ,'Hp','The gioi di dong');
+INSERT INTO BANG VALUES(' HP 15 da0443TX i3 7020U (5SL06PA) ', 11.990.000₫ ,'Hp','The gioi di dong');
+INSERT INTO BANG VALUES(' HP Pavilion 14 ce1011TU i3 8145U (5JN17PA) ', 13.290.000₫ ,'Hp','The gioi di dong');
+INSERT INTO BANG VALUES(' HP Pavilion x360 cd1018TU i3 8145U (5HV88PA) ', 13.490.000₫ ,'Hp','The gioi di dong');
+INSERT INTO BANG VALUES(' HP Pavilion X360 ad104TU i3 8130U (4MF13PA) ', 13.490.000₫ ,'Hp','The gioi di dong');
+INSERT INTO BANG VALUES(' HP 15 da1023TU i5 8265U (5NK81PA) ', 14.890.000₫ ,'Hp','The gioi di dong');
+INSERT INTO BANG VALUES(' HP Pavilion 15 cs1009TU i5 8265U (5JL43PA) ', 15.390.000₫ ,'Hp','The gioi di dong');
+INSERT INTO BANG VALUES(' HP Pavilion 15 cs1044TX i5 8265U ', 16.390.000₫ ,'Hp','The gioi di dong');
+INSERT INTO BANG VALUES(' HP Pavilion 14 ce1018TU i5 8265U (5RL41PA) ', 16.390.000₫ ,'Hp','The gioi di dong');
+INSERT INTO BANG VALUES(' HP 15 da1033TX i7 8565U (5NK26PA) ', 17.890.000₫ ,'Hp','The gioi di dong');
+INSERT INTO BANG VALUES(' HP Envy 13 ah1011TU i5 8265U ', 22.490.000₫ ,'Hp','The gioi di dong');
+INSERT INTO BANG VALUES(' HP Envy 13 ah1012TU i7 8565U (5HZ19PA) ', 27.490.000₫ ,'Hp','The gioi di dong');

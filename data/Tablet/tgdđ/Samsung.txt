@@ -1,0 +1,8 @@
+INSERT INTO BANG VALUES(' Samsung Galaxy Tab S5E T725 (2019) ', 12.490.000₫ ,'Samsung','The gioi di dong');
+INSERT INTO BANG VALUES(' Samsung Galaxy Tab A 10.5" ', 9.490.000₫ ,'Samsung','The gioi di dong');
+INSERT INTO BANG VALUES(' Samsung Galaxy Tab A 10.1 T515 (2019) ', 7.490.000₫ ,'Samsung','The gioi di dong');
+INSERT INTO BANG VALUES(' Samsung Galaxy Tab A6 10.1" Spen ', 7.490.000₫ ,'Samsung','The gioi di dong');
+INSERT INTO BANG VALUES(' Samsung Galaxy Tab A plus 8"  SPen (2019) ', 6.990.000₫ ,'Samsung','The gioi di dong');
+INSERT INTO BANG VALUES(' Samsung Galaxy Tab A 8" (2017) ', 5.490.000₫ ,'Samsung','The gioi di dong');
+INSERT INTO BANG VALUES(' Samsung Galaxy Tab E 9.6" (SM-T561) ', 3.990.000₫ ,'Samsung','The gioi di dong');
+INSERT INTO BANG VALUES(' Samsung Galaxy Tab A6 7" ', 3.290.000₫ ,'Samsung','The gioi di dong');

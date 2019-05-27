@@ -1,0 +1,5 @@
+INSERT INTO BANG VALUES(' Apple Macbook Air 2017 i5/8GB/128GB (MQD32SA/A) ', 21.990.000₫ ,'Apple','The gioi di dong');
+INSERT INTO BANG VALUES(' Apple Macbook Air 2018 i5/8GB/128GB (MREE2SA/A) ', 31.490.000₫ ,'Apple','The gioi di dong');
+INSERT INTO BANG VALUES(' Apple Macbook Air 2018 i5/8GB/128GB (MRE82SA/A) ', 31.490.000₫ ,'Apple','The gioi di dong');
+INSERT INTO BANG VALUES(' Apple Macbook Air 2018 i5/8GB/256GB (MREF2SA/A) ', 36.490.000₫ ,'Apple','The gioi di dong');
+INSERT INTO BANG VALUES(' Apple Macbook Pro 2018 Touch i5/8GB/256GB (MR9Q2SA/A) ', 43.990.000₫ ,'Apple','The gioi di dong');

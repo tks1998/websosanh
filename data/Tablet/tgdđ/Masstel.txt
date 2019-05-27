@@ -1,0 +1,2 @@
+INSERT INTO BANG VALUES(' Masstel Tab10 Plus ', 2.790.000₫ ,'Masstel','The gioi di dong');
+INSERT INTO BANG VALUES(' Masstel Tab8 Plus ', 2.290.000₫ ,'Masstel','The gioi di dong');

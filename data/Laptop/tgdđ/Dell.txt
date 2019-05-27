@@ -1,0 +1,14 @@
+INSERT INTO BANG VALUES(' Dell Inspiron 3567 i3 7020U (P63F002N67T) ', 11.190.000₫ ,'Dell','The gioi di dong');
+INSERT INTO BANG VALUES(' Dell Vostro 3468 i3 7020U (70161069) ', 11.490.000₫ ,'Dell','The gioi di dong');
+INSERT INTO BANG VALUES(' Dell Vostro 3568 i3 6006U (VTI3027W) ', 11.190.000₫ ,'Dell','The gioi di dong');
+INSERT INTO BANG VALUES(' Dell Vostro 3568 i3 7020U (VTI32072W) ', 11.690.000₫ ,'Dell','The gioi di dong');
+INSERT INTO BANG VALUES(' Dell Inspiron 3476 i3 8130U (8J61P11) ', 11.790.000₫ ,'Dell','The gioi di dong');
+INSERT INTO BANG VALUES(' Dell Inspiron 3576 i3 7020U (C5I3132W) ', 11.690.000₫ ,'Dell','The gioi di dong');
+INSERT INTO BANG VALUES(' Dell Inspiron 3576 i3 8130U (P63F002N76B) ', 12.090.000₫ ,'Dell','The gioi di dong');
+INSERT INTO BANG VALUES(' Dell Inspiron 3576 i3 7020U (C5I3133W) ', 12.590.000₫ ,'Dell','The gioi di dong');
+INSERT INTO BANG VALUES(' Dell Inspiron 3576 i5 8250U (P63F002N76F) ', 14.090.000₫ ,'Dell','The gioi di dong');
+INSERT INTO BANG VALUES(' Dell Inspiron 3576 i5 8250U (70157552) ', 15.490.000₫ ,'Dell','The gioi di dong');
+INSERT INTO BANG VALUES(' Dell Vostro 3578 i5 8250U (P63F002V78B) ', 16.190.000₫ ,'Dell','The gioi di dong');
+INSERT INTO BANG VALUES(' Dell Inspiron 5570 i5 8250U (M5I5238W) ', 16.990.000₫ ,'Dell','The gioi di dong');
+INSERT INTO BANG VALUES(' Dell Vostro 3578 i7 8550U (NGMPF11) ', 20.490.000₫ ,'Dell','The gioi di dong');
+INSERT INTO BANG VALUES(' Dell Inspiron 7373 i5 8250U (C3TI501OW) ', 26.690.000₫ ,'Dell','The gioi di dong');

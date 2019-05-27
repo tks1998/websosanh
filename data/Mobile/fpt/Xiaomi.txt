@@ -1,0 +1,16 @@
+INSERT INTO BANG VALUES(' Xiaomi Mi 8 Pro 8GB-128GB ', 8.990.000 ₫ ,'Xiaomi','Fptshop');
+INSERT INTO BANG VALUES(' Xiaomi Mi 9 64GB ', 11.990.000 ₫ ,'Xiaomi','Fptshop');
+INSERT INTO BANG VALUES(' Xiaomi Mi 9 SE 64GB ', 8.490.000 ₫ ,'Xiaomi','Fptshop');
+INSERT INTO BANG VALUES(' Xiaomi Pocophone F1 ', 7.999.000 ₫ ,'Xiaomi','Fptshop');
+INSERT INTO BANG VALUES(' Xiaomi Mi 8 Lite 128GB ', 7.490.000 ₫ ,'Xiaomi','Fptshop');
+INSERT INTO BANG VALUES(' Xiaomi Mi 8 Lite 64GB ', 6.690.000 ₫ ,'Xiaomi','Fptshop');
+INSERT INTO BANG VALUES(' Xiaomi Redmi Note 6 Pro 64GB ', 5.690.000 ₫ ,'Xiaomi','Fptshop');
+INSERT INTO BANG VALUES(' Xiaomi Mi A2 4GB-32GB ', 3.999.000 ₫ ,'Xiaomi','Fptshop');
+INSERT INTO BANG VALUES(' Xiaomi Redmi Note 7 64GB ', 4.990.000 ₫ ,'Xiaomi','Fptshop');
+INSERT INTO BANG VALUES(' Xiaomi Mi A2 Lite 4GB-64GB ', 3.590.000 ₫ ,'Xiaomi','Fptshop');
+INSERT INTO BANG VALUES(' Xiaomi Redmi 7 3GB-32GB ', 3.690.000 ₫ ,'Xiaomi','Fptshop');
+INSERT INTO BANG VALUES(' Xiaomi Redmi 5 Plus ', 3.490.000 ₫ ,'Xiaomi','Fptshop');
+INSERT INTO BANG VALUES(' Xiaomi Redmi 6 3GB-32GB ', 2.499.000 ₫ ,'Xiaomi','Fptshop');
+INSERT INTO BANG VALUES(' Xiaomi Redmi 6A 2GB-16GB ', 1.999.000 ₫ ,'Xiaomi','Fptshop');
+INSERT INTO BANG VALUES(' Xiaomi Redmi Go 1GB-8GB ', 1.790.000 ₫ ,'Xiaomi','Fptshop');
+INSERT INTO BANG VALUES(' Vòng Đeo Tay Xiaomi Mi Band 2 ', 499.000 ₫ ,'Xiaomi','Fptshop');

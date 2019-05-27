@@ -1,0 +1,11 @@
+INSERT INTO BANG VALUES(' Lenovo Ideapad 130 14IKB i3 7020U (81H60016VN) ', 8.790.000₫ ,'Lenovo','The gioi di dong');
+INSERT INTO BANG VALUES(' Lenovo Ideapad 330 15IKBR i3 7020U (81DE00LDVN) ', 9.290.000₫ ,'Lenovo','The gioi di dong');
+INSERT INTO BANG VALUES(' Lenovo Ideapad 330 14IKBR i3 7020U (81G2001AVN) ', 9.790.000₫ ,'Lenovo','The gioi di dong');
+INSERT INTO BANG VALUES(' Lenovo IdeaPad 330 15IKB i3 8130U (81DE020YVN) ', 10.790.000₫ ,'Lenovo','The gioi di dong');
+INSERT INTO BANG VALUES(' Lenovo Yoga 520 14IKB i3 7130U (80X80106VN) ', 11.190.000₫ ,'Lenovo','The gioi di dong');
+INSERT INTO BANG VALUES(' Lenovo Ideapad 330 15IKBR i5 8250U (81DE01KWVN) ', 12.190.000₫ ,'Lenovo','The gioi di dong');
+INSERT INTO BANG VALUES(' Lenovo Ideapad 330S 14IKBR i5 8250U (81F400NLVN) ', 12.690.000₫ ,'Lenovo','The gioi di dong');
+INSERT INTO BANG VALUES(' Lenovo IdeaPad 330 15IKB i5 8250U ', 11.990.000₫ ,'Lenovo','The gioi di dong');
+INSERT INTO BANG VALUES(' Lenovo Ideapad 330 15IKBR i5 8250U (81DE010DVN) ', 12.390.000₫ ,'Lenovo','The gioi di dong');
+INSERT INTO BANG VALUES(' Lenovo Ideapad YOGA 530 14IKB i3 7130U (81EK00MDVN) ', 12.890.000₫ ,'Lenovo','The gioi di dong');
+INSERT INTO BANG VALUES(' Lenovo Ideapad 530S 14IKB i7 8550U (81EU00P5VN) ', 20.490.000₫ ,'Lenovo','The gioi di dong');

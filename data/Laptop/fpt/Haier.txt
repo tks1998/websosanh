@@ -1,0 +1,9 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 22:20:52) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+================== RESTART: D:\crawldata\Laptop\fpt\test.py ==================
+0
+1
+INSERT INTO BANG VALUES(' Haier S1 HR-13M/Celeron N3350 ', 4.499.000₫ ,'Haier','Fptshop');
+INSERT INTO BANG VALUES(' Haier S1 HR-13MZ/Pentium N4200 ', 7.490.000₫ ,'Haier','Fptshop');
+>>> 

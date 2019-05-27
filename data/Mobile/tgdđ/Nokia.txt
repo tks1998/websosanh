@@ -1,0 +1,16 @@
+INSERT INTO BANG VALUES(' Nokia 8.1 ', 7.490.000₫ ,'Nokia','The gioi di dong');
+INSERT INTO BANG VALUES(' Nokia 6.1 Plus ', 4.490.000₫ ,'Nokia','The gioi di dong');
+INSERT INTO BANG VALUES(' Nokia 5.1 Plus ', 3.490.000₫ ,'Nokia','The gioi di dong');
+INSERT INTO BANG VALUES(' Nokia 3.2 32GB ', 3.990.000₫ ,'Nokia','The gioi di dong');
+INSERT INTO BANG VALUES(' Nokia 3.1 Plus ', 3.390.000₫ ,'Nokia','The gioi di dong');
+INSERT INTO BANG VALUES(' Nokia 3.1 32GB ', 2.390.000₫ ,'Nokia','The gioi di dong');
+INSERT INTO BANG VALUES(' Nokia 3.2 16GB ', 2.990.000₫ ,'Nokia','The gioi di dong');
+INSERT INTO BANG VALUES(' Nokia 2.1 ', 1.790.000₫ ,'Nokia','The gioi di dong');
+INSERT INTO BANG VALUES(' Nokia 8110 4G ', 990.000₫ ,'Nokia','The gioi di dong');
+INSERT INTO BANG VALUES(' Nokia 230 (không tặng thẻ nhớ) ', 1.250.000₫ ,'Nokia','The gioi di dong');
+INSERT INTO BANG VALUES(' Nokia 3310 2017 ', 1.060.000₫ ,'Nokia','The gioi di dong');
+INSERT INTO BANG VALUES(' Nokia 210 ', 780.000₫ ,'Nokia','The gioi di dong');
+INSERT INTO BANG VALUES(' Nokia 150 (không tặng thẻ nhớ) ', 650.000₫ ,'Nokia','The gioi di dong');
+INSERT INTO BANG VALUES(' Nokia 130 (2017) ', 520.000₫ ,'Nokia','The gioi di dong');
+INSERT INTO BANG VALUES(' Nokia 106 (2018) Dual Sim ', 390.000₫ ,'Nokia','The gioi di dong');
+INSERT INTO BANG VALUES(' Nokia 105 Single Sim (2017) ', 350.000₫ ,'Nokia','The gioi di dong');

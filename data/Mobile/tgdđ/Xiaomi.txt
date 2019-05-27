@@ -1,0 +1,10 @@
+INSERT INTO BANG VALUES(' Xiaomi Mi 8 ', 12.990.000₫ ,'Xiaomi','The gioi di dong');
+INSERT INTO BANG VALUES(' Xiaomi Mi 8 Lite 6GB/128GB ', 7.490.000₫ ,'Xiaomi','The gioi di dong');
+INSERT INTO BANG VALUES(' Xiaomi Mi 8 Lite ', 6.690.000₫ ,'Xiaomi','The gioi di dong');
+INSERT INTO BANG VALUES(' Xiaomi Redmi Note 6 Pro 64GB ', 5.690.000₫ ,'Xiaomi','The gioi di dong');
+INSERT INTO BANG VALUES(' Xiaomi Redmi Note 7 64GB ', Giá mới: 4.990.000₫ ,'Xiaomi','The gioi di dong');
+INSERT INTO BANG VALUES(' Xiaomi Redmi Note 6 Pro 32GB ', 4.990.000₫ ,'Xiaomi','The gioi di dong');
+INSERT INTO BANG VALUES(' Xiaomi Mi A2 Lite ', 4.390.000₫ ,'Xiaomi','The gioi di dong');
+INSERT INTO BANG VALUES(' Xiaomi Redmi 7 32GB ', 3.490.000₫ ,'Xiaomi','The gioi di dong');
+INSERT INTO BANG VALUES(' Xiaomi Redmi 7 16GB ', 2.890.000₫ ,'Xiaomi','The gioi di dong');
+INSERT INTO BANG VALUES(' Xiaomi Redmi Go ', 1.690.000₫ ,'Xiaomi','The gioi di dong');

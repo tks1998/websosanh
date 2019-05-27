@@ -1,0 +1,18 @@
+INSERT INTO BANG VALUES(' Nokia 8.1 ', 7.990.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia 6.1 Plus ', 5.490.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia 5.1 Plus ', 3.890.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia 3.1 Plus 32GB ', 3.890.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia 3.1 Plus 16GB ', 3.290.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia 3.1 16GB ', 2.890.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia 2.1 ', 1.990.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia 230 (Không thẻ nhớ) ', 1.250.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia 3310 ', 1.059.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia 210 DS ', 779.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia N216 RM - 1187 ', 759.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia N150 ', 649.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia 130 (2017) ', 519.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia 106 DS (2018) ', 389.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia 105 Dual Sim (2017) ', 359.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia 105 Single Sim (2017) ', 349.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia 3.2 2GB-16GB ', 2.990.000 ₫ ,'Nokia','Fptshop');
+INSERT INTO BANG VALUES(' Nokia 3.2 3GB-32GB ', 3.990.000 ₫ ,'Nokia','Fptshop');

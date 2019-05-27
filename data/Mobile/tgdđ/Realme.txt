@@ -1,0 +1,8 @@
+INSERT INTO BANG VALUES(' Realme 2 Pro 8GB/128GB ', 6.490.000₫ ,'Realme','The gioi di dong');
+INSERT INTO BANG VALUES(' Realme 2 Pro 6GB/64GB ', 5.290.000₫ ,'Realme','The gioi di dong');
+INSERT INTO BANG VALUES(' Realme 2 Pro 4GB/64GB ', 4.790.000₫ ,'Realme','The gioi di dong');
+INSERT INTO BANG VALUES(' Realme 3 64GB ', 4.990.000₫ ,'Realme','The gioi di dong');
+INSERT INTO BANG VALUES(' Realme 2 4GB/64GB ', 3.990.000₫ ,'Realme','The gioi di dong');
+INSERT INTO BANG VALUES(' Realme 3 ', 3.990.000₫ ,'Realme','The gioi di dong');
+INSERT INTO BANG VALUES(' Realme 2 3GB/32GB ', 3.290.000₫ ,'Realme','The gioi di dong');
+INSERT INTO BANG VALUES(' Realme C1 ', 2.490.000₫ ,'Realme','The gioi di dong');

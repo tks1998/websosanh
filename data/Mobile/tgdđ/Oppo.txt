@@ -1,0 +1,14 @@
+INSERT INTO BANG VALUES(' OPPO R17 Pro ', 13.990.000₫ ,'Oppo','The gioi di dong');
+INSERT INTO BANG VALUES(' OPPO F11 Pro 128GB Xám Tinh Vân ', 8.490.000₫ ,'Oppo','The gioi di dong');
+INSERT INTO BANG VALUES(' OPPO F11 Pro 64GB ', 8.490.000₫ ,'Oppo','The gioi di dong');
+INSERT INTO BANG VALUES(' OPPO F11 Pro 128GB ', 8.490.000₫ ,'Oppo','The gioi di dong');
+INSERT INTO BANG VALUES(' OPPO F11 ', 7.290.000₫ ,'Oppo','The gioi di dong');
+INSERT INTO BANG VALUES(' OPPO F9 6GB ', 6.990.000₫ ,'Oppo','The gioi di dong');
+INSERT INTO BANG VALUES(' OPPO F9 ', 6.190.000₫ ,'Oppo','The gioi di dong');
+INSERT INTO BANG VALUES(' OPPO F7 ', 5.490.000₫ ,'Oppo','The gioi di dong');
+INSERT INTO BANG VALUES(' OPPO A7 ', 5.490.000₫ ,'Oppo','The gioi di dong');
+INSERT INTO BANG VALUES(' OPPO A5s ', 3.990.000₫ ,'Oppo','The gioi di dong');
+INSERT INTO BANG VALUES(' OPPO A7 32GB ', 3.990.000₫ ,'Oppo','The gioi di dong');
+INSERT INTO BANG VALUES(' OPPO A3s 32GB ', 3.790.000₫ ,'Oppo','The gioi di dong');
+INSERT INTO BANG VALUES(' OPPO A3s ', 2.990.000₫ ,'Oppo','The gioi di dong');
+INSERT INTO BANG VALUES(' OPPO A3s 16GB (1853) ', 2.990.000₫ ,'Oppo','The gioi di dong');

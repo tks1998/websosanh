@@ -1,0 +1,4 @@
+INSERT INTO BANG VALUES(' Lenovo Tab E10 TB-X104L Đen ', 3.590.000₫ ,'Lenovo','The gioi di dong');
+INSERT INTO BANG VALUES(' Lenovo Tab 4 8" 16GB (TB-8504X) ', 3.690.000₫ ,'Lenovo','The gioi di dong');
+INSERT INTO BANG VALUES(' Lenovo Tab 7 Essential 16GB (TB-7304X) ', 2.390.000₫ ,'Lenovo','The gioi di dong');
+INSERT INTO BANG VALUES(' Lenovo Tab E7 TB-7104I ', 1.990.000₫ ,'Lenovo','The gioi di dong');

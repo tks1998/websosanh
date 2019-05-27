@@ -1,0 +1,8 @@
+INSERT INTO BANG VALUES(' Wiko View Max ', 2.499.000 ₫ ,'Wiko','Fptshop');
+INSERT INTO BANG VALUES(' Wiko View 2 Go ', 2.399.000 ₫ ,'Wiko','Fptshop');
+INSERT INTO BANG VALUES(' Wiko View Max 16GB ', 2.299.000 ₫ ,'Wiko','Fptshop');
+INSERT INTO BANG VALUES(' Wiko Lenny 5 ', 1.999.000 ₫ ,'Wiko','Fptshop');
+INSERT INTO BANG VALUES(' Wiko Jerry 3 ', 1.799.000 ₫ ,'Wiko','Fptshop');
+INSERT INTO BANG VALUES(' Wiko Sunny 3 Plus ', 1.499.000 ₫ ,'Wiko','Fptshop');
+INSERT INTO BANG VALUES(' Wiko Sunny 3 ', 1.199.000 ₫ ,'Wiko','Fptshop');
+INSERT INTO BANG VALUES(' Wiko Jerry 4  ', 1.790.000 ₫ ,'Wiko','Fptshop');

@@ -1,0 +1,2 @@
+INSERT INTO BANG VALUES(' MSI Prestige PS42 i5 8250U (476VN) ', 19.490.000₫ ,'Msi','The gioi di dong');
+INSERT INTO BANG VALUES(' MSI GF63 8RD i7 8750H (221VN) ', Dự kiến: 26.990.000₫ ,'Msi','The gioi di dong');

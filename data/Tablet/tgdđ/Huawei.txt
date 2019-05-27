@@ -1,0 +1,5 @@
+INSERT INTO BANG VALUES(' Huawei Mediapad T5 10.1 inch ', 5.690.000₫ ,'Huawei','The gioi di dong');
+INSERT INTO BANG VALUES(' Huawei MediaPad T3 10 (2017) ', 4.490.000₫ ,'Huawei','The gioi di dong');
+INSERT INTO BANG VALUES(' Huawei MediaPad T3 8.0 (2017) ', 3.990.000₫ ,'Huawei','The gioi di dong');
+INSERT INTO BANG VALUES(' Huawei MediaPad T3 7 (2019) ', 2.590.000₫ ,'Huawei','The gioi di dong');
+>>>

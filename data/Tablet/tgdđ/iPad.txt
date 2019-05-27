@@ -1,0 +1,12 @@
+INSERT INTO BANG VALUES(' iPad Pro 11 inch Wifi 256GB (2018) ', 25.990.000₫ ,'Apple','The gioi di dong');
+INSERT INTO BANG VALUES(' iPad Pro 11 inch Wifi Cellular 64GB (2018) ', 25.990.000₫ ,'Apple','The gioi di dong');
+INSERT INTO BANG VALUES(' iPad Pro 11 inch Wifi 64GB (2018) ', 21.490.000₫ ,'Apple','The gioi di dong');
+INSERT INTO BANG VALUES(' iPad Pro 10.5 inch Wifi 64GB (2017) ', 14.990.000₫ ,'Apple','The gioi di dong');
+INSERT INTO BANG VALUES(' iPad Mini 7.9 inch Wifi Cellular 64GB (2019) ', 14.990.000₫ ,'Apple','The gioi di dong');
+INSERT INTO BANG VALUES(' iPad Wifi Cellular 128GB (2018) ', 13.990.000₫ ,'Apple','The gioi di dong');
+INSERT INTO BANG VALUES(' iPad Air 10.5 inch Wifi 64GB 2019 ', 13.990.000₫ ,'Apple','The gioi di dong');
+INSERT INTO BANG VALUES(' iPad Wifi Cellular 32GB (2018) ', 10.990.000₫ ,'Apple','The gioi di dong');
+INSERT INTO BANG VALUES(' iPad Wifi 128 GB (2018) ', 9.990.000₫ ,'Apple','The gioi di dong');
+INSERT INTO BANG VALUES(' iPad Mini 7.9 inch Wifi 64GB (2019) ', 10.990.000₫ ,'Apple','The gioi di dong');
+INSERT INTO BANG VALUES(' iPad Wifi Cellular 32GB (2017) ', 10.990.000₫ ,'Apple','The gioi di dong');
+INSERT INTO BANG VALUES(' iPad Wifi 32GB (2018) ', 8.490.000₫ ,'Apple','The gioi di dong');

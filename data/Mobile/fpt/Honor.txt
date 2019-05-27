@@ -1,0 +1,7 @@
+INSERT INTO BANG VALUES(' Honor 10 ', 9.990.000 ₫ ,'Honor','Fptshop');
+INSERT INTO BANG VALUES(' Honor 8X 128GB ', 6.990.000 ₫ ,'Honor','Fptshop');
+INSERT INTO BANG VALUES(' Honor Play ', 6.590.000 ₫ ,'Honor','Fptshop');
+INSERT INTO BANG VALUES(' Honor 8X 64GB ', 4.990.000 ₫ ,'Honor','Fptshop');
+INSERT INTO BANG VALUES(' Honor 20 Lite ', 5.990.000 ₫ ,'Honor','Fptshop');
+INSERT INTO BANG VALUES(' Honor 10 Lite 64GB ', 5.290.000 ₫ ,'Honor','Fptshop');
+INSERT INTO BANG VALUES(' Honor 8A 32 GB ', 2.990.000 ₫ ,'Honor','Fptshop');

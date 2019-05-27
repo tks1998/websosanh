@@ -1,0 +1,19 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 22:20:52) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+================== RESTART: D:\crawldata\Laptop\fpt\test.py ==================
+0
+1
+2
+3
+4
+5
+6
+INSERT INTO BANG VALUES(' MSI GF63 8RC-203VN/I5-8300H ', 21.990.000₫ ,'Msi','Fptshop');
+INSERT INTO BANG VALUES(' MSI GF63 8RD-218VN/i7-8750H ', 25.490.000₫ ,'Msi','Fptshop');
+INSERT INTO BANG VALUES(' MSI PS42 8M-296VN/i5-8250U ', 20.990.000₫ ,'Msi','Fptshop');
+INSERT INTO BANG VALUES(' MSI GF63 8RC-452VN/CORE I5-8300H/8GB+16GB Optane/1TB/1050 4GB/WIN10 ', 22.990.000₫ ,'Msi','Fptshop');
+INSERT INTO BANG VALUES(' MSI GF63 9SC-400VN/Core I5-9300H/8GB/256GB SSD/VGA 4GB/Win10 ', 24.490.000₫ ,'Msi','Fptshop');
+INSERT INTO BANG VALUES(' MSI GL63 8RCS-068VN/Core i5-8300H/8GB/256GB SSD/WIN10 ', 20.990.000₫ ,'Msi','Fptshop');
+INSERT INTO BANG VALUES(' MSI PS42 8MO-250VN/Core i5-8265U/8GB/512GB SSD/WIN10 ', 22.990.000₫ ,'Msi','Fptshop');
+>>> 

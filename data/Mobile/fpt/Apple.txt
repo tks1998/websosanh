@@ -1,0 +1,14 @@
+INSERT INTO BANG VALUES(' iPhone Xs Max 64GB ', 29.990.000 ₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' iPhone Xs Max 256GB ', 35.990.000 ₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' iPhone Xs Max 512GB ', 39.990.000 ₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' iPhone Xs 64GB ', 26.990.000 ₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' iPhone Xs 512GB ', 37.990.000 ₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' iPhone XR 64GB ', 17.990.000 ₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' iPhone XR 128GB ', 21.990.000 ₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' iPhone X 64GB ', 20.990.000 ₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' iPhone 8 Plus 64GB ', 18.990.000 ₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' iPhone 8 64GB ', 16.990.000 ₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' iPhone 7 Plus 32GB ', 13.990.000 ₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' iPhone 7 32GB ', 10.990.000 ₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' iPhone 6s Plus 32GB ', 8.990.000 ₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' iPhone 6s 32GB ', 7.990.000 ₫ ,'Apple','Fptshop');

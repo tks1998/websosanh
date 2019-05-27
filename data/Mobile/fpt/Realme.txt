@@ -1,0 +1,7 @@
+INSERT INTO BANG VALUES(' Realme 2 Pro 8GB ', 6.990.000 ₫ ,'Realme','Fptshop');
+INSERT INTO BANG VALUES(' Realme 2 Pro 6GB ', 5.790.000 ₫ ,'Realme','Fptshop');
+INSERT INTO BANG VALUES(' Realme 2 Pro 4GB-64GB ', 5.290.000 ₫ ,'Realme','Fptshop');
+INSERT INTO BANG VALUES(' Realme 3 4GB-64GB ', 4.990.000 ₫ ,'Realme','Fptshop');
+INSERT INTO BANG VALUES(' Realme 3 3GB-32GB ', 3.990.000 ₫ ,'Realme','Fptshop');
+INSERT INTO BANG VALUES(' Realme 2 ', 3.790.000 ₫ ,'Realme','Fptshop');
+INSERT INTO BANG VALUES(' Realme C1 ', 2.490.000 ₫ ,'Realme','Fptshop');

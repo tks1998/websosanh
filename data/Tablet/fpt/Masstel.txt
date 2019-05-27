@@ -1,0 +1,7 @@
+INSERT INTO BANG VALUES(' Masstel Tab 7 Plus ', 1.790.000 ₫ ,'Masstel','Fptshop');
+INSERT INTO BANG VALUES(' Masstel Tab 10 Plus ', 2.790.000 ₫ ,'Masstel','Fptshop');
+INSERT INTO BANG VALUES(' Masstel Tab 10 ', 2.790.000 ₫ ,'Masstel','Fptshop');
+INSERT INTO BANG VALUES(' Masstel Tab 7 ', 1.790.000 ₫ ,'Masstel','Fptshop');
+INSERT INTO BANG VALUES(' Masstel Tab 8 ', 2.290.000 ₫ ,'Masstel','Fptshop');
+INSERT INTO BANG VALUES(' Masstel Tab 7 LTE ', 1.990.000 ₫ ,'Masstel','Fptshop');
+INSERT INTO BANG VALUES(' Masstel Tab 8 Plus ', 2.290.000 ₫ ,'Masstel','Fptshop');

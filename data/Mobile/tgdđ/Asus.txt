@@ -1,0 +1,2 @@
+INSERT INTO BANG VALUES(' ASUS Zenfone Max Pro M2 ', 5.990.000₫ ,'Asus','The gioi di dong');
+INSERT INTO BANG VALUES(' ASUS Zenfone Max Pro M1 ', 3.790.000₫ ,'Asus','The gioi di dong');

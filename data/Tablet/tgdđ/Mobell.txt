@@ -1,0 +1,4 @@
+INSERT INTO BANG VALUES(' Mobell Tab 10 ', Giá mới: 2.750.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell Tab 8 Pro ', Giá mới: 2.650.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell Tab 8A ', Giá mới: 2.190.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell Tab 7s ', 1.690.000₫ ,'Mobell','The gioi di dong');

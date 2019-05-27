@@ -1,0 +1,9 @@
+INSERT INTO BANG VALUES(' Macbook Air 13 128GB MQD32SA/A (2017) ', 21.990.000₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' Macbook Air 13 128GB 2018 ', 30.990.000₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' Macbook Air 13 256GB 2018 ', 35.990.000₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' Macbook Pro 13 inch 128GB (2017) ', 33.990.000₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' Macbook Pro 13 inch 256GB (2017) ', 38.990.000₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' Macbook Pro 13 Touch Bar 256 GB (2018) ', 43.490.000₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' Macbook Pro 13 Touch Bar 512 GB (2018) ', 49.990.000₫ ,'Apple','Fptshop');
+INSERT INTO BANG VALUES(' Macbook Pro 15 Touch Bar 512 GB (2018) ', 69.990.000₫ ,'Apple','Fptshop');
+

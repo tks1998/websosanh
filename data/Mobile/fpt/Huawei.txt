@@ -1,0 +1,10 @@
+INSERT INTO BANG VALUES(' Huawei P30 Pro ', 20.990.000 ,'Huawei','Fptshop');
+INSERT INTO BANG VALUES(' Huawei Mate 20 Pro ', 21.990.000 ₫ ,'Huawei','Fptshop');
+INSERT INTO BANG VALUES(' Huawei P30 ', 14.990.000 ₫ ,'Huawei','Fptshop');
+INSERT INTO BANG VALUES(' Huawei P30 Lite ', 7.490.000 ₫ ,'Huawei','Fptshop');
+INSERT INTO BANG VALUES(' Huawei Nova 3i ', 5.990.000 ₫ ,'Huawei','Fptshop');
+INSERT INTO BANG VALUES(' Huawei Y9 (2019) ', 4.990.000 ₫ ,'Huawei','Fptshop');
+INSERT INTO BANG VALUES(' Huawei Y7 Pro (2019) ', 3.990.000 ₫ ,'Huawei','Fptshop');
+INSERT INTO BANG VALUES(' Huawei Y7 Pro 2018 ', 3.290.000 ₫ ,'Huawei','Fptshop');
+INSERT INTO BANG VALUES(' Huawei Y6 Prime (2018) ', 2.790.000 ₫ ,'Huawei','Fptshop');
+INSERT INTO BANG VALUES(' Huawei Y3 2017 ', 1.790.000 ₫ ,'Huawei','Fptshop');

@@ -1,0 +1,10 @@
+INSERT INTO BANG VALUES(' Itel S13 Pro ', 1.890.000₫ ,'Itel','The gioi di dong');
+INSERT INTO BANG VALUES(' Itel P33 ', 1.690.000₫ ,'Itel','The gioi di dong');
+INSERT INTO BANG VALUES(' Itel S31 ', 1.590.000₫ ,'Itel','The gioi di dong');
+INSERT INTO BANG VALUES(' Itel A32F ', 1.250.000₫ ,'Itel','The gioi di dong');
+INSERT INTO BANG VALUES(' Itel A16 Plus ', 1.190.000₫ ,'Itel','The gioi di dong');
+INSERT INTO BANG VALUES(' Itel A13 ', 850.000₫ ,'Itel','The gioi di dong');
+INSERT INTO BANG VALUES(' Itel it6120 ', 350.000₫ ,'Itel','The gioi di dong');
+INSERT INTO BANG VALUES(' Itel it5022 ', 280.000₫ ,'Itel','The gioi di dong');
+INSERT INTO BANG VALUES(' Itel it2170 ', 230.000₫ ,'Itel','The gioi di dong');
+INSERT INTO BANG VALUES(' Itel It2161 ', 170.000₫ ,'Itel','The gioi di dong');

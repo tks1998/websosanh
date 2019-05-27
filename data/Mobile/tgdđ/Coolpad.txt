@@ -1,0 +1,10 @@
+INSERT INTO BANG VALUES(' Coolpad N5 ', 2.390.000₫ ,'Coolpad','The gioi di dong');
+INSERT INTO BANG VALUES(' Coolpad Mega 5 ', 2.190.000₫ ,'Coolpad','The gioi di dong');
+INSERT INTO BANG VALUES(' Coolpad N5C ', 1.990.000₫ ,'Coolpad','The gioi di dong');
+INSERT INTO BANG VALUES(' Coolpad N3D ', 1.890.000₫ ,'Coolpad','The gioi di dong');
+INSERT INTO BANG VALUES(' Coolpad N3C ', 1.590.000₫ ,'Coolpad','The gioi di dong');
+INSERT INTO BANG VALUES(' Coolpad N3 mini ', 1.190.000₫ ,'Coolpad','The gioi di dong');
+INSERT INTO BANG VALUES(' Coolpad F129 ', 350.000₫ ,'Coolpad','The gioi di dong');
+INSERT INTO BANG VALUES(' Coolpad F126 ', 280.000₫ ,'Coolpad','The gioi di dong');
+INSERT INTO BANG VALUES(' Coolpad F116 ', 230.000₫ ,'Coolpad','The gioi di dong');
+INSERT INTO BANG VALUES(' Coolpad F113 ', 200.000₫ ,'Coolpad','The gioi di dong');

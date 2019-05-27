@@ -1,0 +1,1 @@
+INSERT INTO BANG VALUES(' Lenovo Phab 2 ', 2.990.000 ₫,'Lenovo','Fptshop');

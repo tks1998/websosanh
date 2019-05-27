@@ -1,0 +1,7 @@
+INSERT INTO BANG VALUES(' Vivo V15 128GB ', 7.490.000₫ ,'Vivo','The gioi di dong');
+INSERT INTO BANG VALUES(' Vivo V15 64GB ', 6.990.000₫ ,'Vivo','The gioi di dong');
+INSERT INTO BANG VALUES(' Vivo V11i ', 5.490.000₫ ,'Vivo','The gioi di dong');
+INSERT INTO BANG VALUES(' Vivo Y91 ', 3.990.000₫ ,'Vivo','The gioi di dong');
+INSERT INTO BANG VALUES(' Vivo Y85 ', 3.690.000₫ ,'Vivo','The gioi di dong');
+INSERT INTO BANG VALUES(' Vivo Y91C ', 2.990.000₫ ,'Vivo','The gioi di dong');
+INSERT INTO BANG VALUES(' Vivo Y71 ', 2.590.000₫ ,'Vivo','The gioi di dong');

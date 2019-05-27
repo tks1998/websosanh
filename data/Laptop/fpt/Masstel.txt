@@ -1,0 +1,15 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 22:20:52) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+================== RESTART: D:\crawldata\Laptop\fpt\test.py ==================
+0
+1
+2
+3
+4
+INSERT INTO BANG VALUES(' Masstel L133 Celeron N3350 128GB ', 5.690.000₫ ,'Masstel','Fptshop');
+INSERT INTO BANG VALUES(' Masstel L133 ', 4.990.000₫ ,'Masstel','Fptshop');
+INSERT INTO BANG VALUES(' Masstel L133/Celeron N3350/RAM 3GB/32GB/WIN10_Bạc ', 5.290.000₫ ,'Masstel','Fptshop');
+INSERT INTO BANG VALUES(' Masstel L133/Celeron N4000/4GB/128GB SSD/DOS ', 5.990.000₫ ,'Masstel','Fptshop');
+INSERT INTO BANG VALUES(' Masstel L133/Celeron N4000/4GB/256GB SSD/DOS ', 6.690.000₫ ,'Masstel','Fptshop');
+>>> 

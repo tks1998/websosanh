@@ -1,0 +1,16 @@
+INSERT INTO BANG VALUES(' Mobell Nova P3 ', 2.190.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell S61 ', 1.890.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell S51 ', 1.650.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell S60 ', Giá mới: 1.590.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell S50 ', 1.390.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell S41 ', 1.290.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell S40 ', 1.100.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell M729 ', 650.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell Rock 3 ', 590.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell M789 ', 520.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell M889 ', 490.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell M529 ', 490.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' MOBELL M389 ', 420.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell M339 ', 320.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' MOBELL M228 ', 190.000₫ ,'Mobell','The gioi di dong');
+INSERT INTO BANG VALUES(' Mobell M118 (2019) ', 190.000₫ ,'Mobell','The gioi di dong');
