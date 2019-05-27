@@ -386,7 +386,7 @@ data = [
 },
 {
     "ProductName": "MSI GF63 8RD i7 8750H (221VN)",
-    "Price": "D\u1ef1 ki\u1ebfn: 26.990.000",
+    "Price": "26.990.000",
     "Company": "Msi",
     "Distributor": "Thegioididong",
     "image": "https://cdn.tgdd.vn/Products/Images/44/187931/msi-gf63-8rd-221vn-thumb-600x600.jpg"
@@ -532,14 +532,14 @@ data = [
     "image": "https://cdn.tgdd.vn/Products/Images/522/197374/huawei-mediapad-t3-7-2018-33397-thumbmau-vang-600x600.png"
 },
 {
-    "ProductName": "Lenovo Tab E10 TB-X104L \u0110en",
+    "ProductName": "Lenovo Tab E10 TB-X104L",
     "Price": "3.590.000",
     "Company": "Lenovo",
     "Distributor": "Thegioididong",
     "image": "https://cdn.tgdd.vn/Products/Images/522/200691/lenovo-tab-e10-tb-x104l-den-1-600x600.jpg"
 },
 {
-    "ProductName": "Lenovo Tab 4 8\" 16GB (TB-8504X)",
+    "ProductName": "Lenovo Tab 4 16GB (TB-8504X)",
     "Price": "3.690.000",
     "Company": "Lenovo",
     "Distributor": "Thegioididong",
